@@ -3,8 +3,8 @@ Repository pertama saya
 # Hello GitHub
 Halo! Ini adalah repository GitHub pertama saya.
 ## Tentang Saya
-- Nama: Nama Mahasiswa
-- Program Studi: Nama Program Studi
-- Tambah seperlunya
+- Nama: uswatun hasanah
+- Program Studi: informatika
+- gk tau bingung
 ## Tujuan
 Belajar menggunakan Git dan GitHub.
